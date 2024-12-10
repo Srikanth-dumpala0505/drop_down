@@ -1,2 +1,2 @@
 # drop_down
-page contains landing page with some dropdown navigation
+Page contains Landing page with some dropdown navigations
